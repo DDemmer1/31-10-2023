@@ -5,15 +5,15 @@ WS23 - Methoden
 
 In dieser Aufgabe wird der Umgang mit Methoden geübt.
 
-Ausgabe 1:
+🖊️ Aufgabe 1:
 - dieses Programm hat eine Methode die überprüft ob eine Zahl gerade ist
 - korrigiert die Syntaxfehler
 
-Aufgabe 2:
+🖊️ Aufgabe 2:
 - dieses Programm hat eine Methode die eine persönliche Begrüßung in der Konsole ausgibt
 - korrigiert die Syntaxfehler
 
-Aufgabe 3: 
+👩‍💻 Aufgabe 3: 
 - programmiert eine Methode die zwei int-Variablen aus der main Methode addieren kann
 - die Methode soll als Rückgabewert das Ergebnis der Addition haben
 
